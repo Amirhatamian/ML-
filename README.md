@@ -56,5 +56,5 @@ The project produces:
 - Anomaly detection insights for ECG5000 dataset, identifying potential irregularities in ECG readings.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Kaggle License.
 
